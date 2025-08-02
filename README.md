@@ -1,5 +1,5 @@
 # CARTNOK-LTD-NETWORK-PROJECT
-Building a Network Infrastructure for Cartnok Ltd for internet services, file charing and also deploying Access Contril List so that the staff and all the end point devices are secured from intrusion attacks etc.
+Setting up an organizational network with router, switches, PCs, and servers, implementing DHCP, ACLs for selective HTTP access, and departmental file server restrictions while maintaining essential services.
 
 ### PROJECT 001 - ### 
 ### **CATNORK NETWORK  – Designing a Secure Internal Network for Improved Operational Efficiency** ### 
