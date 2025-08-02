@@ -1,5 +1,13 @@
 # CARTNOK-LTD-NETWORK-PROJECT
-Building a Network Infrastructure for Cartnok Ltd for internet services, file charing and also deploying Access Contril List so that the staff and all the end point devices are secured from intrusion attacks etc.
+Project Objective
+Design and build a functioning organizational network using a router, switches, PCs, and servers
+Implement DHCP and static addressing on the devices
+apply Extended Access Control Lists (ACLs) to restrict HTTP access
+Allow only one laptop to access the internal webserver while blocking all others from doing so
+Ensure that other services like DHCP, DNS, and general connectivity remain functional
+Launch Internal File Server with access to HR Dept but Finance Dept are restricted to the File Server
+
+Building a Network Infrastructure for Cartnok Ltd for internet services, file sharing and also deploying Access Contril List so that the staff and all the end point devices are secured from intrusion attacks etc.
 
 ### PROJECT 001 - ### 
 ### **CATNORK NETWORK  – Designing a Secure Internal Network for Improved Operational Efficiency** ### 
